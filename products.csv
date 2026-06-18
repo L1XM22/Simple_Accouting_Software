@@ -1,0 +1,31 @@
+name,description,price,quantity,item_code
+Widget A,Standard widget,10.50,100,WID001
+Widget B,Premium widget,15.75,50,WID002
+Gadget X,Basic gadget,25.00,75,GAD001
+Gadget Y,Advanced gadget,45.50,30,GAD002
+Thingamajig 1,Small thingamajig,5.99,200,THI001
+Thingamajig 2,Large thingamajig,12.99,120,THI002
+Doohickey Pro,Professional doohickey,89.99,15,DOO001
+Gizmo Lite,Lightweight gizmo,19.95,80,GIZ001
+Gizmo Max,Heavy-duty gizmo,39.95,40,GIZ002
+Contraption Z,Complex contraption,150.00,10,CON001
+Sprocket S,Steel sprocket,8.50,300,SPR001
+Sprocket B,Brass sprocket,12.50,150,SPR002
+Cog C,Copper cog,6.75,250,COG001
+Gear G,Gold-plated gear,55.00,20,GEA001
+Lever L,Long lever,14.25,60,LEV001
+Pulley P,Plastic pulley,3.50,500,PUL001
+Spring S,Stainless steel spring,2.25,1000,SPG001
+Bolt B,Box of bolts,9.99,50,BLT001
+Nut N,Box of nuts,4.99,50,NUT001
+Washer W,Box of washers,3.99,50,WAS001
+Screw S,Box of screws,7.99,50,SCR001
+Nail N,Box of nails,6.99,50,NAL001
+Hammer H,Claw hammer,18.50,25,HAM001
+Screwdriver Set,Set of 6 screwdrivers,24.99,20,SDR001
+Wrench W,Adjustable wrench,16.95,30,WRE001
+Pliers P,Needle-nose pliers,14.50,35,PLI001
+Tape Measure,25ft tape measure,11.99,40,TAP001
+Level L,24-inch level,22.50,15,LVL001
+Drill D,Cordless drill,129.99,5,DRL001
+Saw S,Hand saw,29.95,10,SAW001

@@ -1,0 +1,7 @@
+pyinstaller
+pyodbc
+bcrypt
+matplotlib
+reportlab
+tkcalendar
+pywin32
